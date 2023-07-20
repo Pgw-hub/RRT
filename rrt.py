@@ -57,7 +57,7 @@ class RRT(object) :
         return None
         
 
-    @staticmethod #이걸 하면 뭐가 좋음?
+    @staticmethod #이렇게하면 그냥 클래스이름으로 호출할 수 있음. 
     def is_same_node(node1, node2):
         if(node1.x == node2.x) and (node1.y == node2.y):
             return True
