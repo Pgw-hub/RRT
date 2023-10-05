@@ -1,11 +1,11 @@
 # RRT Path Planning with Obstacles
 
-![RRT Path Planning](RRT.png)
+![RRT Path Planning](PathPlanning/RRT/examples/RRT.png)
 
 This is a sample image of the RRT path planning algorithm with obstacles. The image above shows the start point (green), goal point (red), and obstacles (gray circles) in the workspace. The generated paths during the RRT search are also visualized with light blue lines.
 
 # RRTstar Dubins path
-![RRTstarDubins](PathPlaning/DubinsPath/examples/rrtstar_dubins.png)
+![RRTstarDubins](PathPlanning/DubinsPath/examples/rrtstar_dubins.png)
 for non-holonomic path
 
 # CoordinateTransformation
@@ -13,4 +13,4 @@ for non-holonomic path
 
 
 # Description
-Add a brief description of the project here.
+Future mobility is powered by Software
